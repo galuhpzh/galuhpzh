@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/galupzh/galupzh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/galuhpzh/galuhpzh/output/snake.svg" alt="Snake animation" />
 
 ###
