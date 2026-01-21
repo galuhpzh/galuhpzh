@@ -86,6 +86,8 @@
   </a>
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E61I63T0)
+
 ###
 
 <img src="https://raw.githubusercontent.com/galuhpzh/galuhpzh/output/snake.svg" alt="Snake animation" />
