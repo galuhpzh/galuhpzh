@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I love turning ideas into code 💻<br>Always curious about how things work from backend logic to frontend design.<br>Let’s keep building and learning together! → (this guy was lying)</p>
+<p align="left">I love turning ideas into code 💻<br>Always curious about how things work from backend logic to frontend design.<br>Let’s keep building and learning together!</p>
 
 ###
 
@@ -17,10 +17,6 @@
 ###
 
 <h2 align="left">What I learned</h2>
-
-###
-
-<p align="left">This guy also lying about this</p>
 
 ###
 
